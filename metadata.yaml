@@ -1,0 +1,30 @@
+_repo: Ti-Ping-Tien-KwohThe-History-of-the-Ti-Ping-Revolution--Volume-II-_39735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindley, Augustus F.
+    aliases:
+    - Lin-le
+    - Lindley, A. F. (Augustus F.)
+    gutenberg_agent_id: '39883'
+    url: http://www.gutenberg.org/2009/agents/39883
+description: ''
+gutenberg_issued: '2012-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Taiping Rebellion, 1850-1864'
+- !lcsh 'Lindley, Augustus F.'
+- !lcsh 'China -- History -- Taiping Rebellion, 1850-1864 -- Personal narratives,
+  British'
+- !lcc 'DS'
+title: 'Ti-Ping Tien-Kwoh: The History of the Ti-Ping Revolution (Volume II)'
+url: http://www.gutenberg.org/ebooks/39735
