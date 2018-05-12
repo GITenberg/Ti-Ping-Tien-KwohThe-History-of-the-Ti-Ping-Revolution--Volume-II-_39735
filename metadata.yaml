@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39883'
     url: http://www.gutenberg.org/2009/agents/39883
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39735#Ti-Ping-Tien-KwohThe-History-of-the-Ti-Ping-Revolution--Volume-II-
 gutenberg_issued: '2012-05-19'
 gutenberg_type: Text
 identifiers:
